@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartualculate",
+        "uuid": 11390104,
+        "checksum": "yoxm5"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
